@@ -1,0 +1,7 @@
+#YAML multiline strings
+bioData : | 
+    My name is Abhishek 
+    I am 21 years old
+    I am the founder futureVision
+
+futureVision : The company which brings your vision into future

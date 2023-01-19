@@ -1,0 +1,19 @@
+#This is my comment in YAML file 
+#This just a test YAML file and only for practice
+#Indentation should be maintained 
+
+#Objects in YAML
+myObject:
+    service : my-codedamn-project
+    test1 : script-1
+    test2 : script-2
+
+
+#Array in YAML
+myArray: [1,23,43,234]
+
+myArr:
+    - key1:value 1 
+      key2:value 2
+    - key3: value 3
+      key4: value 4
